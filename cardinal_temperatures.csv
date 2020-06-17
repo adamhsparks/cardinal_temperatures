@@ -1,10 +1,10 @@
-﻿Crop,Pest or Disease,Binomial,Minimum.C,Lower Optimum.C,Upper Optimum.C,Maximum.C,Other Favourable Conditions,Reference
-rice,sheath blight,Thanatephorus cucumeris,,28,32,,,https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/RiceSheath.aspx
-rice,blast,Magnaporthe oryzea,9,25,28,35,,https://doi.org/10.1007/s10584-017-1942-z
-rice,brown spot,Cochliobolus miyabeanus,,25,30,,, https://doi.org/10.1007/s10658-013-0195-6
-rice,brown planthopper,Nilaparvata lugens,,28,30,,,"Brown Planthopper: Threat to Rice Production in Asia, International Rice Research Institute 1979. Available online: http://books.irri.org/9711040220_content.pdf"
-rice,green leafhopper,Nephotettix spp.,,,,,Asynchronous planting,http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/green-leafhopper
-rice,thrip,Stenchaetothrips biformis,,23,32,,Dry weather,https://doi.org/10.1093/jee/77.5.1171
-rice,stemborer,various,9,,,39,,https://doi.org/10.1007/s40011-014-0348-1
-rice,armyworm,various,15,25,30,35,,https://doi.org/10.1371/journal.pone.0124682
-rice,rice bug,Leptocorisa spp.,,,,,Populations increase at end of rainy season and are more common in rainfed rice.,http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/rice-bug
+﻿Crop,Crop Binomial,Pest or Disease,Binomial,Minimum.C,Lower Optimum.C,Upper Optimum.C,Maximum.C,Other Favourable Conditions,Reference
+rice,Oryza sativa,sheath blight,Thanatephorus cucumeris,,28,32,,,https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/RiceSheath.aspx
+rice,Oryza sativa,blast,Magnaporthe oryzea,9,25,28,35,,https://doi.org/10.1007/s10584-017-1942-z
+rice,Oryza sativa,brown spot,Cochliobolus miyabeanus,,25,30,,, https://doi.org/10.1007/s10658-013-0195-6
+rice,Oryza sativa,brown planthopper,Nilaparvata lugens,,28,30,,,"Brown Planthopper: Threat to Rice Production in Asia, International Rice Research Institute 1979. Available online: http://books.irri.org/9711040220_content.pdf"
+rice,Oryza sativa,green leafhopper,Nephotettix spp.,,,,,Asynchronous planting,http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/green-leafhopper
+rice,Oryza sativa,thrip,Stenchaetothrips biformis,,23,32,,Dry weather,https://doi.org/10.1093/jee/77.5.1171
+rice,Oryza sativa,stemborer,various,9,,,39,,https://doi.org/10.1007/s40011-014-0348-1
+rice,Oryza sativa,armyworm,various,15,25,30,35,,https://doi.org/10.1371/journal.pone.0124682
+rice,Oryza sativa,rice bug,Leptocorisa spp.,,,,,Populations increase at end of rainy season and are more common in rainfed rice.,http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/rice-bug
