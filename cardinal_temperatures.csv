@@ -1,10 +1,24 @@
-﻿Crop,Crop Binomial,Pest or Disease,Binomial,Minimum.C,Lower Optimum.C,Upper Optimum.C,Maximum.C,Other Favourable Conditions,Reference
-rice,Oryza sativa,sheath blight,Thanatephorus cucumeris,,28,32,,,https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/RiceSheath.aspx
-rice,Oryza sativa,blast,Magnaporthe oryzea,9,25,28,35,,https://doi.org/10.1007/s10584-017-1942-z
-rice,Oryza sativa,brown spot,Cochliobolus miyabeanus,,25,30,,, https://doi.org/10.1007/s10658-013-0195-6
-rice,Oryza sativa,brown planthopper,Nilaparvata lugens,,28,30,,,"Brown Planthopper: Threat to Rice Production in Asia, International Rice Research Institute 1979. Available online: http://books.irri.org/9711040220_content.pdf"
-rice,Oryza sativa,green leafhopper,Nephotettix spp.,,,,,Asynchronous planting,http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/green-leafhopper
-rice,Oryza sativa,thrip,Stenchaetothrips biformis,,23,32,,Dry weather,https://doi.org/10.1093/jee/77.5.1171
-rice,Oryza sativa,stemborer,various,9,,,39,,https://doi.org/10.1007/s40011-014-0348-1
-rice,Oryza sativa,armyworm,various,15,25,30,35,,https://doi.org/10.1371/journal.pone.0124682
-rice,Oryza sativa,rice bug,Leptocorisa spp.,,,,,Populations increase at end of rainy season and are more common in rainfed rice.,http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/rice-bug
+Crop,Crop Binomial,Pest or Disease,Binomial,Minimum.C*,Lower Optimum.C,Upper Optimum.C,Maximum.C*,Other Favourable Conditions,Reference,Notes
+rice,Oryza sativa,sheath blight,Thanatephorus cucumeris,,28,32,,,https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/RiceSheath.aspx,
+rice,Oryza sativa,blast,Magnaporthe oryzea,9,25,28,35,,https://doi.org/10.1007/s10584-017-1942-z,
+rice,Oryza sativa,brown spot,Cochliobolus miyabeanus,,25,30,,,https://doi.org/10.1007/s10658-013-0195-6,
+rice,Oryza sativa,brown planthopper,Nilaparvata lugens,,28,30,,,"Brown Planthopper: Threat to Rice Production in Asia, International Rice Research Institute 1979. Available online: http://books.irri.org/9711040220_content.pdf",
+rice,Oryza sativa,green leafhopper,Nephotettix spp.,,,,,Asynchronous planting,http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/green-leafhopper,
+rice,Oryza sativa,thrip,Stenchaetothrips biformis,,23,32,,Dry weather,https://doi.org/10.1093/jee/77.5.1171,
+rice,Oryza sativa,stemborer,various,9,,,39,,https://doi.org/10.1007/s40011-014-0348-1,
+rice,Oryza sativa,armyworm,various,15,25,30,35,,https://doi.org/10.1371/journal.pone.0124682,
+rice,Oryza sativa,rice bug,Leptocorisa spp.,,,,,Populations increase at end of rainy season and are more common in rainfed rice.,http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/rice-bug,
+maize,Zea mays,fall armyworm,Spodoptera frugiperda,14,,32,35,,https://doi.org/10.1093/aesa/83.4.725,
+maize,Zea mays,stalk borer,various,,,,,,,
+maize,Zea mays,corn earworm,Helicoverpa armigera,9,,35,40,Fluctuating temperatures with a mean of 24C are most favourable for development. Flowering maize is most attractive to the moth.,https://doi.org/10.1093/ee/37.1.16,
+maize,Zea mays,tropical rust,Puccinia polysora,16,23,28,32,,https://doi.org/10.1111/jph.12593,
+maize,Zea mays,downy mildew,Peronosclerospora sorghi,14,22,30,,"High humidity and young plants, <15 days old required for infection. Older plants appear not to be infected",https://doi.org/10.1017/S0953756298007886,"Based on isolates from Zimbabwe, there may be slight differences in isolates as suggested in the referenced paper. However, I cannot find any studies for SE Asia to reference."
+cassava,Manihot esculenta,whitefly,"various, primarily Bemisia tabici",16,26,28,36,3,https://doi.org/10.1007/s10340-020-01249-z,
+cassava,Manihot esculenta,mealybug,Phenacoccus manihoti,16,24,29,34,Favoured by soil moisture >80% water holding capacity,https://doi.org/10.1371/journal.pone.0047675,
+cassava,Manihot esculenta,red spider mite,Tetranychus urticae,30,32,34,34,,http://dx.doi.org/10.1080/09670878309370833,
+cassava,Manihot esculenta,cassava mosaic disease,Cassava Mosaic Virus,,,,,"Whiteflies. Poor sanitation, planting infected or poor-quality cuttings, poor in-season management (lack of roguing within crop stands)",https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_7/b_fdi_53-54/010016568.pdf; https://www.apsnet.org/publications/plantdisease/backissues/Documents/1990Articles/PlantDisease74n06_404.pdf,
+cassava,Manihot esculenta,witches broom,Cassava witches'-broom aster yellows phytoplasma,,,,,Transmitted mechanically and by infected seed,,
+cassava,Manihot esculenta,bacterial leaf blight,Xanthomonas axonopodis pv. manihotis,,23,23,,Constant rainfall and splashes disperse inoculum,https://cgspace.cgiar.org/bitstream/handle/10568/54610/cassava_in_third_millennium_1.pdf?sequence=1&isAllowed=y#page=207,
+,,,,,,,,,,
+,,,,,,,,,,
+*These temperatures are either lethal or the boundary at which the organism can survive and reproduce.,,,,,,,,,,
